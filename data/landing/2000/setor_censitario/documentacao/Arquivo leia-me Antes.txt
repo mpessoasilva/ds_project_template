@@ -1,0 +1,149 @@
+                        CENSO DEMOGRÁFICO 2000
+                   AGREGADOS POR SETORES CENSITÁRIOS
+                DOS RESULTADOS DE UNIVERSO - 2ª edição
+
+  A segunda edição dos agregados por setores censitários foi gerada a partir dos
+  microdados do universo do Censo Demográfico 2000 e é composta por 21 planilhas
+  de dados para cada Unidade da Federação, contendo mais de 3.200 variáveis.
+
+    Setor   Censitário  é   unidade   territorial   de  coleta   das   operações
+  censitárias,  definido pelo   IBGE,  com   limites físicos   identificados, em
+  áreas contínuas  e respeitando a divisão político-administrativa do Brasil. 
+
+  O Território Nacional  foi dividido em  215 811 setores  para a realização  do
+  Censo Demográfico de 2000.
+
+  Os Setores Censitários são  definidos  de acordo com  o número  de domicílios.
+  Na área urbana,  cada setor  censitário é  composto, em  sua maioria,  de  250
+  à 350 domicílios. Na área rural o setor censitário é composto, em sua maioria,
+  de  150 a 250 domicílios. 
+
+  Os Setores recebem duas classificações: situação e tipo.
+
+  A situação  pode ser  urbana ou   rural. Em  situação urbana  consideram-se as
+  áreas urbanizadas  ou não,   correspondentes às  cidades (sedes   municipais),
+  às  vilas (sedes  distritais) ou às  áreas urbanas isoladas.  A situação rural
+  abrange  toda  a área   situada   fora do   perímetro   urbano, inclusive   os
+  aglomerados rurais  de extensão urbana, os povoados e os núcleos. 
+
+  O tipo  do setor  pode ser:  setor comum  ou não-especial  e setor especial. O
+  setor  especial   é   aquele   que   apresenta   características   que  tornam
+  necessário um tratamento  diferenciado  de  coleta  em  relação  aos   setores
+  comuns  ou  não -especiais, tais como quartéis, asilos, penitenciárias, etc.
+
+  Os agregados   por setores   censitários, possibilitam   que se   reúnam dados
+  para  pequenas  áreas,  como   por  exemplo,  quando   se  deseja  analisar  o
+  quarteirão  onde mora,  esteja ele  compreendido por  um ou  mais setores.  Os
+  setores são denominados unicamente por  código. O código numérico completo  do
+  setor censitário possui  15 dígitos (UFMMMMMDDSDSSSS), divididos  da  seguinte 
+  forma:
+
+  UF – Unidade da Federação	– com 2 (duas) posições;
+  MMMMM  – Município		- com 4 (quatro) posições; 
+  DD – Distrito		        - com 2 (duas) posições; 
+  SD – Subdistrito 		- com 2 (duas) posições;
+  SSSS – Setor			- com 4 (quatro) posições.
+
+
+  ******************************************************************************
+   				Arquivos de documentação 
+  ******************************************************************************
+ 
+  Documentação.doc -  com um  texto do  MS-Word 97  ou posterior  contendo notas
+  sobre o Censo Demográfico 2000, a composição do arquivo agregado, a  descrição
+  de  todas as  planilhas MS-Excel  e suas   variáveis, e      uma representação
+  tabular  das variáveis de dados; 
+
+  Documentação.pdf - com  o mesmo texto  em "portable document  format" para ser
+  lido pelo Adobe  Acrobat Reader. Esta   forma de apresentação  da documentação
+  objetiva facilitar sua  impressão, na medida  em que os  arquivos pdf não  são
+  dependentes da  impressora, não  obrigando os  usuários a  verificar o arquivo
+  antes da  impressão. Caso não tenha o Acrobat Reader instalado em seu 
+  computador, instale-o a  partir de http://www.adobe.com/products/acrobat/.  
+
+
+  ******************************************************************************
+				 Arquivos de dados 
+  ******************************************************************************
+  
+  Basico_UF.xls  - Contém  os códigos  e nomes  das subdivisões  geográficas e 
+  a informação básica do cadastro de áreas (totais, médias e variâncias);
+
+  Domicilio_UF.xls  -   Contém  as   informações  sobre   as  características 
+  dos domicílios;
+
+  Morador_UF.xls -  Contém as  informações sobre  os moradores  por sexo,  idade 
+  e características do domicílio;
+
+  Responsavel1_UF.xls	a Responsavel5_UF.xls - São cinco planilhas que fornecem
+  informações  sobre  responsáveis  pelos  domicílios  particulares permanentes,
+  segundo sexo, idade, alfabetização, anos de estudo, e rendimento;
+
+  Pessoa1_UF.xls  a   Pessoa7_UF.xls  -   São  sete   planilhas  que    fornecem
+  informação sobre  a população   residente por  sexo,  idade  e relação   com o
+  responsável  pelo domicílio 
+
+  Instrucao1_UF.xls  a	Instrucao6_UF.xls  -  São  seis planilhas  que  fornecem
+  informação  sobre alfabetização  da população  por sexo,  idade, relação   com
+  o responsável, e instrução do responsável e do cônjuge.
+
+  Nota: Os arquivos de dados são  planilhas excel e estão gravados por   Unidade
+  da Federação. Em seus  nomes, aparece sempre "UF",  que representa a sigla  da
+  Unidade da Federação, exceto para São Paulo,  onde existem 2(dois) arquivos, 
+  SP1 e  SP2, respectivamente.
+
+
+  ******************************************************************************
+			Arquivos com informações adicionais 
+  ******************************************************************************
+
+  Descrição   dos  Setores_UF.xls  -  Com   informações sobre   a  descrição  do
+  setor censitário   (ponto  inicial,   perímetro  de   cada  setor  censitário,
+  áreas   no perímetro  excluídas do  setor, e  aglomerados rurais  contidos no
+  setor)
+
+  Municípios instalados em 2001_UF.xls  -  Relação dos municípios  instalados em
+  1º de   janeiro de   2001; a   população de   sua área   no Censo  Demográfico
+  2000;  os municípios  desmembrados  (ou  que  cederam  área  para  a   criação
+  dos   novos municípios);  a  população   das  áreas  cedidas;   e  a população
+  nas  áreas remanescentes dos municípios desmembrados 
+
+  Compatibilização_2000-2001_UF.xls  -   Relação  de   setores  dos   municípios
+  instalados com   indicação  de   sua   procedência,  permitindo  recompor   os
+  dados  do  Censo Demográfico   2000  para  as  áreas   dos novos   municípios.
+  Existem para nove Unidades da Federação: Piauí, Rio Grande do Norte,  Alagoas, 
+  Bahia, Espírito Santo, Rio Grande do Sul, Mato Grosso e Goiás.
+
+
+  ******************************************************************************
+  ** Mandados de segurança 
+  ******************************************************************************
+  **
+
+  MUN.doc  -  Dois  documentos  que  fornecem  informações  sobre  os   Mandados
+  de Segurança concedidos por  demandados municípios de Carapebus,  no	Estado
+  do Rio de Janeiro, e Piraquê, no Estado de Tocantins.
+
+  Mandado_RJ.xls -  Aplica-se, apenas,  ao Estado  do Rio  de Janeiro  e  contém
+  a relação de setores dos municípios Conceição de Macabu e Macaé que, por força
+  do Mandado de Segurança impetrado por Carapebus, deveria ser transferida  para
+  este município. Este arquivo permite recompor os dados do Censo Demográfico 
+  2000 para as áreas dos municípios de acordo com o referido mandado.
+
+
+  ******************************************************************************
+ 					 Suporte 
+  ******************************************************************************
+
+  Ao  tornar  disponíveis  os  dados  agregados  por  setor  censitário  do 
+  Censo Demográfico 2000,  o IBGE  não está  assumindo, implícita  ou 
+  explicitamente,  o compromisso  de fornecer  orientação técnica  relacionada 
+  ao  uso desses  dados; exceto no que tange à integridade dos arquivos 
+  magnéticos gravados e às  dúvidas que por ventura existam na documentação 
+  associada.
+
+  Para obter suporte do IBGE entre em contato através de:
+
+  E-mail: ibge@ibge.gov.br
+
+  Fax: (0xx21)2142-4933

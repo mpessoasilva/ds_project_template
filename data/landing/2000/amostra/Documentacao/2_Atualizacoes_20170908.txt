@@ -1,0 +1,4 @@
+19/06/2015 - Foi identificado que partes de alguns registros estavam corrompidos. Os arquivos foram substituídos.
+09/03/2016 - Foi identificado que que os arquivos de atividade e ocupação necessitavam incompletos e que era necessário incluir novos códigos na documentação que compatibiliza os códigos de 2000 e 1991.
+Foi identificado que a variável V0300 não estava no arquivo de domicílio.
+08/09/2017 - Foi identificado que a variável V0300 não estava no arquivo de domicílio.
